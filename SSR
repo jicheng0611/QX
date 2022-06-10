@@ -1,0 +1,133 @@
+shadowsocks=iepl-hn.cctelescope.xyz:64112, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=香港_R_450
+
+shadowsocks=ieplszhk-sz.cctelescope.xyz:50804, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=香港_R_446
+
+shadowsocks=iepl-hn.cctelescope.xyz:44702, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=香港_R_334
+
+shadowsocks=sh163.safetelescope.cc:12021, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=香港_R_121
+
+shadowsocks=sh163.safetelescope.cc:10020, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=韩国_R_311
+
+shadowsocks=kr-002.yyuuii.cyou:58000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=韩国_L_308
+
+shadowsocks=sh163.safetelescope.cc:28368, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=越南_R_515
+
+shadowsocks=iepl-hn.cctelescope.xyz:43738, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=越南_R_380
+
+shadowsocks=iepl-gz.safetelescope.cc:10899, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=越南_R_377
+
+shadowsocks=gzyd-01.cctelescope.xyz:20003, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=韩国_R_310
+
+shadowsocks=ieplszhk-sz.cctelescope.xyz:10899, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=越南_R_448
+
+shadowsocks=es-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=西班牙_G_182
+
+shadowsocks=gzyd-01.cctelescope.xyz:45705, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=菲律宾_R_280
+
+shadowsocks=iepl-hn.cctelescope.xyz:48293, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=菲律宾_R_196
+
+shadowsocks=iepl-hn.cctelescope.xyz:14261, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=英国_R_366
+
+shadowsocks=sh163.safetelescope.cc:10006, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=英国_R_228
+
+shadowsocks=iepl-gz.
+
+safetelescope.cc:15658, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=美国_R_370
+
+shadowsocks=gzyd-01.cctelescope.xyz:40678, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=美国_R_273
+
+shadowsocks=us-3.safetelescope.cc:58000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=美国_G_211
+
+shadowsocks=ro-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=罗马尼亚_G_210
+
+shadowsocks=ieplszhk-sz.cctelescope.xyz:56326, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=立陶宛_R_456
+
+shadowsocks=lt-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=立陶宛_G_154
+
+shadowsocks=iepl-hn.cctelescope.xyz:20098, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=瑞典_R_362
+
+shadowsocks=se-001.safetelescope.cc:58000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=瑞典_G_71
+
+shadowsocks=ieplszhk-sz.cctelescope.xyz:59058, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=爱沙尼亚_R_453
+
+shadowsocks=ee-001.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=爱沙尼亚_G_137
+
+shadowsocks=gzyd-01.cctelescope.xyz:62300, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=澳大利亚_R_100
+
+shadowsocks=au-001.safetelescope.cc:29829, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=澳大利亚_G_38
+
+shadowsocks=ieplszhk-sz.cctelescope.xyz:54402, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=泰国_R_520
+
+shadowsocks=th-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=泰国_G_156
+
+shadowsocks=iepl-gz.safetelescope.cc:49853, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=法国_R_372
+
+shadowsocks=gzyd-01.cctelescope.xyz:23033, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=法国_R_274
+
+shadowsocks=fr-001.safetelescope.
+
+cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=法国_G_14
+
+shadowsocks=ieplszhk-sz.cctelescope.xyz:57312, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=日本_R_510
+
+shadowsocks=iepl-hn.cctelescope.xyz:27078, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=日本_R_498
+
+shadowsocks=sh163.safetelescope.cc:10019, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=日本_R_22
+
+shadowsocks=jp-001.yyuuii.cyou:39051, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=日本_L_11
+
+shadowsocks=gzyd-01.cctelescope.xyz:20002, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=新加坡_R_524
+
+shadowsocks=sh163.safetelescope.cc:46562, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=新加坡_R_522
+
+shadowsocks=ieplszhk-sz.cctelescope.xyz:52306, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=新加坡_R_441
+
+shadowsocks=sk-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=斯洛伐克_G_184
+
+shadowsocks=cz-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=捷克_G_181
+
+shadowsocks=sh163.safetelescope.cc:62301, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=德国_R_523
+
+shadowsocks=ieplszhk-sz.cctelescope.xyz:59354, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=尼日利亚_R_514
+
+shadowsocks=ng-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=尼日利亚_G_157
+
+shadowsocks=iepl-hn.cctelescope.xyz:26563, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=土耳其_R_458
+
+shadowsocks=tur_1.yyuuii.cyou:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=土耳其_G_67
+
+shadowsocks=gzyd-01.cctelescope.xyz:30002, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=台湾_R_34
+
+shadowsocks=iepl-hn.cctelescope.
+
+xyz:20399, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=台湾_R_337
+
+shadowsocks=iepl-gz.safetelescope.cc:10802, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=台湾_R_318
+
+shadowsocks=ieplszhk-sz.cctelescope.xyz:10802, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=台湾_R_314
+
+shadowsocks=iepl-hn.cctelescope.xyz:21637, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=印度_R_361
+
+shadowsocks=sh163.safetelescope.cc:10007, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=台湾_R_271
+
+shadowsocks=tw-01.safetelescope.cc:50916, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=台湾_L_136
+
+shadowsocks=in-001.safetelescope.cc:58000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=印度_G_93
+
+shadowsocks=hu-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=匈牙利_G_209
+
+shadowsocks=iepl-hn.cctelescope.xyz:46164, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=加拿大_R_365
+
+shadowsocks=is-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=冰岛_G_179
+
+shadowsocks=hr-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=克罗地亚_G_213
+
+shadowsocks=gzyd-01.cctelescope.xyz:26096, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=俄罗斯_R_323
+
+shadowsocks=il-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=以色列_G_185
+
+shadowsocks=ieplszhk-sz.cctelescope.xyz:59578, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=乌克兰_R_521
+
+shadowsocks=bg-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=保加利亚_G_180
+
+shadowsocks=ua-1.safetelescope.cc:48000, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=乌克兰_G_183

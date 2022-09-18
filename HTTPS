@@ -4,7 +4,7 @@ log-level: info
 mode: Rule
 port: 7890
 proxies:
-- name: HK-HTTPS-三网优化 0x
+- name: 🇭🇰 HTTPS_HK
   password:
   port: 21830
   server: www.chrome-helper.cc
@@ -16,12 +16,12 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - DIRECT
-  - HK-HTTPS-三网优化 0x
+  - 🇭🇰 HTTPS_HK
   type: select
 - interval: 300
   name: ♻️ 自动选择
   proxies:
-  - HK-HTTPS-三网优化 0x
+  - 🇭🇰 HTTPS_HK
   tolerance: 50
   type: url-test
   url: http://www.gstatic.com/generate_204
@@ -30,32 +30,32 @@ proxy-groups:
   - "\U0001F680 节点选择"
   - ♻️ 自动选择
   - "\U0001F3AF 全球直连"
-  - HK-HTTPS-三网优化 0x
+  - 🇭🇰 HTTPS_HK
   type: select
 - name: "\U0001F4F2 电报信息"
   proxies:
   - "\U0001F680 节点选择"
   - "\U0001F3AF 全球直连"
-  - HK-HTTPS-三网优化 0x
+  - 🇭🇰 HTTPS_HK
   type: select
 - name: Ⓜ️ 微软服务
   proxies:
   - "\U0001F3AF 全球直连"
   - "\U0001F680 节点选择"
-  - HK-HTTPS-三网优化 0x
+  - 🇭🇰 HTTPS_HK
   type: select
 - name: "\U0001F34E 苹果服务"
   proxies:
   - "\U0001F680 节点选择"
   - "\U0001F3AF 全球直连"
-  - HK-HTTPS-三网优化 0x
+  - 🇭🇰 HTTPS_HK
   type: select
 - name: "\U0001F4E2 谷歌FCM"
   proxies:
   - "\U0001F680 节点选择"
   - "\U0001F3AF 全球直连"
   - ♻️ 自动选择
-  - HK-HTTPS-三网优化 0x
+  - 🇭🇰 HTTPS_HK
   type: select
 - name: "\U0001F3AF 全球直连"
   proxies:
@@ -78,7 +78,7 @@ proxy-groups:
   - "\U0001F680 节点选择"
   - "\U0001F3AF 全球直连"
   - ♻️ 自动选择
-  - HK-HTTPS-三网优化 0x
+  - 🇭🇰 HTTPS_HK
   type: select
 rules:
 - "DOMAIN-SUFFIX,acl4.ssr,\U0001F3AF 全球直连"

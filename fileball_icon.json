@@ -5,6 +5,7 @@
     [
         {"name":"bp", "url":"https://raw.githubusercontent.com/jicheng0611/QX/main/icons/bp.png"},
         {"name":"han", "url":"https://raw.githubusercontent.com/jicheng0611/QX/main/icons/han.png"},
-        {"name":"gd", "url":"https://raw.githubusercontent.com/jicheng0611/QX/main/icons/Google_Drive.max-500x500.png"},
+        {"name":"gd", "url":"https://raw.githubusercontent.com/jicheng0611/QX/main/icons/gd.png"},
+        {"name":"gd", "url":"https://raw.githubusercontent.com/jicheng0611/QX/main/icons/alist.png"},
     ]
 }

@@ -1,0 +1,8 @@
+[
+    {
+        "name": "低端影视",
+        "api": "https://ddys.pro/api.php/provide/vod/",
+        "note": "需要代理"
+    },
+    ...
+]
